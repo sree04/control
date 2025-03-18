@@ -1,8 +1,6 @@
 
 # Industrial Automation Dashboard
 
-![Industrial Automation Dashboard](public/og-image.png)
-
 ## Overview
 
 This industrial automation dashboard provides real-time monitoring and control of production systems. The application simulates a factory environment with machines, performance metrics, alerts, and control capabilities.
@@ -115,11 +113,3 @@ npm run build
 ```
 
 This creates a `dist` directory with optimized production files ready for deployment.
-
-## Project URL
-
-**URL**: https://lovable.dev/projects/93888b9a-0e60-46af-b6d9-86310d4af279
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
